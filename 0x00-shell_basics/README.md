@@ -5,4 +5,5 @@ shell basics project
 3-listfiles : Display current directory contents in a long format
 4-listmorefiles : Display current directory contents, including hidden files using the long format
 5-listfilesdigitonly : Display current directory contents: Long format with user and group IDs displayed numerically And hidden files
-6-firstdirectory : Create a script that creates a directory named my_first_directory in the /tmp/ directory.
+6-firstdirectory : Create a script that creates a directory named my_first_directory in the /tmp/ directory
+7-movethatfile : Move the file betty from /tmp/ to /tmp/my_first_directory
